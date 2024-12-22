@@ -109,3 +109,5 @@ Run the script to start the real-time screen capture and processing.
 View the processed screen with blurred individuals in the OpenCV display window.
 
 Press q to exit the application.
+
+video : https://drive.google.com/file/d/1MhULOicD3HSrCMswcNGQkVbhUEd97Eg_/view?usp=drive_link
